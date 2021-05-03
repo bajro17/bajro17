@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://codepen.io/bajro91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="bajro91" height="30" width="40" /></a>
 <a href="https://dev.to/bajro17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bajro17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bajro.lisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="bajro.lisic" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bajro-lisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="bajro.lisic" height="30" width="40" /></a>
 </p>
 
 # Blog posts
