@@ -10,6 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vuejs Adobe color clone part 1.](https://dev.to/bajro17/vuejs-adobe-color-clone-part-1-2o1o)
+- [Simplest color scheme generator in Vuejs](https://dev.to/bajro17/simplest-color-scheme-generator-in-javascript-a3g)
+- [Golang, Vuejs, Tailwinds classified ads models and database](https://dev.to/bajro17/golang-vuejs-tailwinds-classified-ads-models-and-database-25ib)
+- [Golang, Vuejs and Tailwind Ecommerce website (Clasified ads) Part 1.](https://dev.to/bajro17/starting-with-olx-project-16fc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
