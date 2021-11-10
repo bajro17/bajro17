@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Lines of code - Golang](https://dev.to/bajro17/lines-of-code-golang-5gd8)
+- [Blockchain resources](https://dev.to/bajro17/blockchain-resources-1f9l)
 - [Vuejs Adobe color clone part 1.](https://dev.to/bajro17/vuejs-adobe-color-clone-part-1-2o1o)
 - [Simplest color scheme generator in Vuejs](https://dev.to/bajro17/simplest-color-scheme-generator-in-javascript-a3g)
-- [Golang, Vuejs, Tailwinds classified ads models and database](https://dev.to/bajro17/golang-vuejs-tailwinds-classified-ads-models-and-database-25ib)
-- [Golang, Vuejs and Tailwind Ecommerce website &lpar;Clasified ads&rpar; Part 1.](https://dev.to/bajro17/starting-with-olx-project-16fc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
